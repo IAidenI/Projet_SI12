@@ -1,0 +1,3 @@
+pywebview==5.*
+pyserial==3.*
+sprotocol
